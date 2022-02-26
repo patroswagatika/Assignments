@@ -1,4 +1,4 @@
-package com.company;
+package CalculatorPack;
 
 import java.util.Scanner;
 
@@ -39,6 +39,5 @@ public class Calculator {
 	        }
 
 	    }
-
 
 }
